@@ -1,4 +1,4 @@
-- Bienvenue sur mon profil!
+# Bienvenue sur mon profil!
 
 Je suis un étudiant de 20 ans en première année de BTS Services informatiques aux organisations (Option développement)
 
